@@ -5,3 +5,4 @@ GLIP stands for Global Investment Platform.
 Currently, GLIP is an Ethereum-affiliated token, and is a basic asset that will transfer value assets more quickly through the mainnet in the future. GLIP Value Asset will be a free and fast investment in all sectors of society, culture, economy, and infrastructure in countries across the globe through a crowdfunding platform that can participate in large and small projects around the world. Through GLIP, it is possible to invest even a small amount of small assets in all areas, from solar power projects in remote areas in Africa, exploration facilities in Antarctica to private space exploration projects.
 GLIP will realize the reality of blockchain after discovering the existence of blockchain, just like humans owned and used fire for the first time. In other words, it is an attempt to safely meet virtual and all realities.
 
+https://glip-sale.com
