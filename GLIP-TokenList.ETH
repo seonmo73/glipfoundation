@@ -1,6 +1,6 @@
 {
   "name": "GLIP",
-  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png",
+  "logoURI": "https://airsoftloard.aty.kr/1617595916198/image/resize_1f82c0a1a6b945fe8e3fd39beb80dd0a.jpg",
   "keywords": [
     "GLIP",
     "tokensets",
@@ -14,7 +14,7 @@
       "name": "GLIP",
       "symbol": "GLIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png"
+      "logoURI": "https://airsoftloard.aty.kr/1617595916198/image/resize_1f82c0a1a6b945fe8e3fd39beb80dd0a.jpg"
     },
     {
       "chainId": 1,
