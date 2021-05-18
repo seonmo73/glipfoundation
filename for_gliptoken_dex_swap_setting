@@ -1,0 +1,18 @@
+{
+  "name": "GLIP",
+  "logoURI": "https://airsoftloard.aty.kr/1617595916198/image/resize_1f82c0a1a6b945fe8e3fd39beb80dd0a.jpg",
+  "keywords": [
+    "GLIP",
+    "tokensets",
+    "defi"
+  ],
+  "timestamp": "2021-04-29T16:00:17.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd0b86b79ae4b8d7bb88b37ebe228ce343d79794e",
+      "name": "GLIP",
+      "symbol": "GLIP",
+      "decimals": 18,
+      "logoURI": "https://airsoftloard.aty.kr/1617595916198/image/resize_1f82c0a1a6b945fe8e3fd39beb80dd0a.jpg"
+    }
