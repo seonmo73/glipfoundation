@@ -1,6 +1,6 @@
 {
   "name": "GLIP",
-  "logoURI": "https://raw.github.com/seonmo73/glipfoundation/blob/master/GLIP-logo.png",
+  "logoURI": "https://drive.google.com/file/d/1veQz2kEptHebo-U0sXFGqgcEP3UGnneF/view?usp=drivesdk",
   "keywords": [
     "GLIP",
     "tokensets",
@@ -14,7 +14,7 @@
       "name": "GLIP",
       "symbol": "GLIP",
       "decimals": 18,
-      "logoURI": "raw.https://github.com/seonmo73/glipfoundation/blob/master/GLIP-logo.png"
+      "logoURI": "https://drive.google.com/file/d/1veQz2kEptHebo-U0sXFGqgcEP3UGnneF/view?usp=drivesdk "
     },
     {
       "chainId": 1,
