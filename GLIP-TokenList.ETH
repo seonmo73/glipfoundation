@@ -1,6 +1,6 @@
 {
   "name": "GLIP",
-  "logoURI": "https://drive.google.com/file/d/1veQz2kEptHebo-U0sXFGqgcEP3UGnneF/view?usp=drivesdk",
+  "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png",
   "keywords": [
     "GLIP",
     "tokensets",
@@ -14,7 +14,7 @@
       "name": "GLIP",
       "symbol": "GLIP",
       "decimals": 18,
-      "logoURI": "https://drive.google.com/file/d/1veQz2kEptHebo-U0sXFGqgcEP3UGnneF/view?usp=drivesdk "
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/coinshares_gold.png"
     },
     {
       "chainId": 1,
